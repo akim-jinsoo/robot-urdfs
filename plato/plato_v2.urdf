@@ -3,7 +3,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/hand_base_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/hand_base_visual.obj"/>
 </geometry>
 <material name="hand_base_material">
 <color rgba="0.60136123019582843341 0.60194196429870416853 0.60350636801829626865 1.0"/>
@@ -12,7 +12,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/hand_base_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/hand_base_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -26,7 +26,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_metacarpal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_metacarpal_visual.obj"/>
 </geometry>
 <material name="thumb_metacarpal_material">
 <color rgba="0.5827309937939606499 0.5827309937939606499 0.5827309937939606499 1.0"/>
@@ -35,7 +35,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_metacarpal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_metacarpal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -49,7 +49,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_actuators_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_actuators_visual.obj"/>
 </geometry>
 <material name="thumb_actuators_material">
 <color rgba="0.55265047292841684712 0.55265047292841684712 0.55265047292841684712 1.0"/>
@@ -58,7 +58,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_actuators_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_actuators_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -72,7 +72,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_proximal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_proximal_visual.obj"/>
 </geometry>
 <material name="thumb_proximal_material">
 <color rgba="0.72911665950632309485 0.72962859494512233294 0.72993575620840189799 1.0"/>
@@ -81,7 +81,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_proximal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_proximal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -95,7 +95,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_distal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_distal_visual.obj"/>
 </geometry>
 <material name="thumb_distal_material">
 <color rgba="0.75192079636853570435 0.75093906196781912143 0.74793599844811597954 1.0"/>
@@ -104,7 +104,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/thumb_distal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/thumb_distal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -154,7 +154,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/index_proximal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/index_proximal_visual.obj"/>
 </geometry>
 <material name="index_proximal_material">
 <color rgba="0.72911666191871016274 0.72962859737255958414 0.72993575864486925919 1.0"/>
@@ -163,7 +163,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/index_proximal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/index_proximal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -177,7 +177,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/index_distal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/index_distal_visual.obj"/>
 </geometry>
 <material name="index_distal_material">
 <color rgba="0.75192079636853581537 0.75093906196781912143 0.74793599844811586852 1.0"/>
@@ -186,7 +186,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/index_distal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/index_distal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -218,7 +218,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/middle_proximal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/middle_proximal_visual.obj"/>
 </geometry>
 <material name="middle_proximal_material">
 <color rgba="0.72911665950632298383 0.72962859494512222192 0.72993575620840178697 1.0"/>
@@ -227,7 +227,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/middle_proximal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/middle_proximal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
@@ -241,7 +241,7 @@
 <visual>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/middle_distal_visual.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/middle_distal_visual.obj"/>
 </geometry>
 <material name="middle_distal_material">
 <color rgba="0.75192079636853570435 0.75093906196781912143 0.74793599844811597954 1.0"/>
@@ -250,7 +250,7 @@
 <collision>
 <origin xyz="0 0 0" rpy="0 -0 0" />
 <geometry>
-<mesh filename="https://raw.githubusercontent.com/Aarim02/robot-urdfs/refs/heads/master/plato/meshes/middle_distal_collision.obj"/>
+<mesh filename="https://raw.githubusercontent.com/akim-jinsoo/robot-urdfs/refs/heads/master/plato/meshes/middle_distal_collision.obj"/>
 </geometry>
 </collision>
 <inertial>
